@@ -49,6 +49,8 @@ function Blog() {
             src="/Group 1000004660 (Traced).png"
             alt="Logo"
             className="h-10"
+            onClick={() => navigate("/")}
+
           />
           <BiCart className="text-3xl cursor-pointer" />
         </div>
