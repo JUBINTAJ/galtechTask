@@ -25,7 +25,7 @@ function KurlaBest() {
           <div className="col-span-1">
             <div className="aspect-square bg-[#A1ACDF] md:bg-gray-50 rounded-lg p-4 flex items-center justify-center border border-gray-300">
               <img
-                src="/Rectangle 1158.png"
+                src="/Rectangle_1158-removebg-preview.png"
                 alt="Kurla"
                 className="w-full object-cover"
               />

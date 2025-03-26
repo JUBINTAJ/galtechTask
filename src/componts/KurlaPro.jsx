@@ -39,7 +39,7 @@ function KurlaPro() {
             <div className="flex justify-start">
               <div className="h-32 w- bg-white rounded-lg overflow-hidden">
                 <img
-                  src="/Rectangle 1158.png"
+                  src="/Rectangle_1158-removebg-preview.png"
                   alt="Product view 1"
                   className="w-full h-full object-cover"
                 />
